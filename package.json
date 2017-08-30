@@ -1,0 +1,26 @@
+{
+  "name": "@alepop/compose",
+  "version": "1.0.0",
+  "description": "Simple compose function",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alepop/compose.git"
+  },
+  "keywords": [
+    "fp",
+    "compose"
+  ],
+  "author": "Aleksey Popov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alepop/compose/issues"
+  },
+  "homepage": "https://github.com/alepop/compose#readme",
+  "devDependencies": {
+    "jest": "^20.0.4"
+  }
+}
